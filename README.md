@@ -1,3 +1,1 @@
 # git-seminar
-
-hi
